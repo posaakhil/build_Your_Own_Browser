@@ -1,4 +1,4 @@
-# build_Your_Own_Browser
+# build_Your_Own_Browser -->Simple Browser With Python Programming
 
 ## we can build a simple browser with python programming.we will build a webbrowser with Python. We will use the PyQT library which has a web component
 ## you have to install python libraries and packages before you proceeding it in python 
